@@ -204,3 +204,5 @@ list of sites to ignore (one site name per line).
 
 MIT © Sherlock Project<br/>
 Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+
+[!] I am not Responsible for any Misuse of this tool . Use at your Own Risk [!]
