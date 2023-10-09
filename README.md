@@ -35,6 +35,8 @@ BEST USERNAME GATHERING TOOL
 ## Installation
 
 ```console
+# install git
+$ sudo apt-get install git
 # clone the repo
 $ git clone https://github.com/sherlock-project/sherlock.git
 
